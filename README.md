@@ -79,18 +79,6 @@ Fee charged: GHS 0.00.
 }
 ```
 
----
-
-## Intended Use
-
-This model is intended for:
-
-- Personal finance applications
-- SMS transaction parsing
-- Mobile Money analytics
-- Financial automation
-- Expense tracking
-- Research involving financial SMS datasets
 
 ---
 
