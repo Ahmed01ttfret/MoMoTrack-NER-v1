@@ -1,0 +1,18 @@
+MoMoTrack NER v1
+Copyright (c) 2026 Ahmed Mohammed
+
+This project is licensed under the Apache License, Version 2.0.
+
+This project fine-tunes and builds upon the DistilBERT architecture
+developed by Hugging Face. DistilBERT is distributed under the Apache
+License, Version 2.0.
+
+The trained model weights, source code, and project-specific modifications
+are Copyright (c) 2026 Ahmed Mohammed and are released under the
+Apache License, Version 2.0.
+
+Original DistilBERT authors retain copyright to the original
+DistilBERT architecture and associated source code.
+
+Apache License 2.0:
+https://www.apache.org/licenses/LICENSE-2.0
